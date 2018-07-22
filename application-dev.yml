@@ -1,2 +1,9 @@
 example:
   field: value2
+cloud:
+  config:
+    resource:
+      files:
+        - directoryPath: temp
+          fileName: temp1.json
+      enabled: true
