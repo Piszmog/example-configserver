@@ -8,4 +8,6 @@ cloud:
           - directory: temp
             files:
               - temp1.json
+              - temp2.yml
+              - temp3.properties
 #         enabled: true
