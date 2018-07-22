@@ -1,3 +1,5 @@
 {
-  "test":"another number"
+  "example":{
+    "field3":"new value"
+  }
 }
