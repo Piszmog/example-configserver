@@ -2,8 +2,10 @@ example:
   field: value
 cloud:
   config:
-    resource:
-      files:
-        - directoryPath: temp
-          fileName: temp1.json
-      enabled: true
+    client:
+      file:
+        resources:
+          - directory: temp
+            files:
+              - temp1.json
+#         enabled: true
