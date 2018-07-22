@@ -1,5 +1,5 @@
 example:
-  field: value2
+  field: value
 cloud:
   config:
     resource:
