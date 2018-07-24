@@ -17,4 +17,5 @@ cloud:
               - temp8.json
               - temp9.json
               - temp10.json
+              - temp20.yml
 #         enabled: true
