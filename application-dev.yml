@@ -10,4 +10,11 @@ cloud:
               - temp1.json
               - temp2.json
               - temp3.json
+              - temp4.json
+              - temp5.json
+              - temp6.json
+              - temp7.json
+              - temp8.json
+              - temp9.json
+              - temp10.json
 #         enabled: true
