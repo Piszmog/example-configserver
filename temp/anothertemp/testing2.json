@@ -2,12 +2,12 @@
 "persons":{
 "Person1":{
 "firstName":"first",
-"firstName":"last",
+"lastName":"last",
 "children":["child1"]
 },
 "Person1:test":{
 "firstName":"first",
-"firstName":"last",
+"lastName":"last",
 "children":["child1"]
 }
 }
