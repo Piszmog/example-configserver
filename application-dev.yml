@@ -25,7 +25,7 @@ cloud:
               - testing1.json
               - testing2.json
               - testing3.json
-        enabled: true
+#         enabled: true
 # cities:
 #   people:
 #     SAN_FRAN:
