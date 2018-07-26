@@ -22,6 +22,9 @@ cloud:
           - directory: temp/anothertemp
             files:
               - testing.json
+              - testing1.json
+              - testing2.json
+              - testing3.json
 #         enabled: true
 # cities:
 #   people:
