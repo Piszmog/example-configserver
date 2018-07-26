@@ -19,9 +19,9 @@ cloud:
               - temp10.json
               - temp20.yml
               - temp21.properties
-#          - directory: temp/anothertemp
-#            files:
-#              - testing.json
+          - directory: temp/anothertemp
+            files:
+              - testing.json
 #         enabled: true
 # cities:
 #   people:
