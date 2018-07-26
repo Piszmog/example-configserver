@@ -23,3 +23,38 @@ cloud:
 #            files:
 #              - testing.json
 #         enabled: true
+cities:
+  people:
+    SAN_FRAN:
+      - firstName: John
+        lastName: Doe
+        children:
+          - Billy1
+      - firstName: John1
+        lastName: Doe
+        children:
+          - Billy2
+      - firstName: John2
+        lastName: Doe
+        children:
+          - Billy3
+    DENVER:
+      - firstName: Jill
+        lastName: LastName
+        children:
+          - Girl1
+          - Girl2
+          - Girl3
+      - firstName: Frank
+        lastName: LongName
+        children:
+          - Child1
+          - Child2
+    NEW_YORK:
+      - firstName: Jane
+        lastName: Doe
+        children:
+          - Bobby
+    AUSTIN:
+      - firstName: Roe
+        lastName: Wade
