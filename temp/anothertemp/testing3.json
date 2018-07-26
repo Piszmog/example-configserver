@@ -1,2 +1,14 @@
 {
+  "crazy":{
+    "FIELD": {
+      "FIELD1" : {
+        "FIELD2" : [
+          "VALUE1",
+          "VALUE2",
+          "VALUE3",
+          "VALUE4"
+        ]
+      }
+    }
+  }
 }
