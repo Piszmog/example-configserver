@@ -1,0 +1,9 @@
+{
+  "crazy":{
+    "FIELD": {
+      "FIELD1" : {
+        "$ref" : "some pointer"
+      }
+    }
+  }
+}
