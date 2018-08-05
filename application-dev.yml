@@ -19,6 +19,7 @@ cloud:
               - temp10.json
               - temp20.yml
               - temp21.properties
+              - temp21_doesnotexist.properties
           - directory: temp/anothertemp
             files:
               - testing.json
