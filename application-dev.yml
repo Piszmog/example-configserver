@@ -5,7 +5,7 @@ cloud:
     client:
       file:
         resources:
-          - directory: temp/
+          - directory: temp
             files:
               - temp1.json
               - temp2.json
