@@ -5,7 +5,7 @@ cloud:
     client:
       file:
         resources:
-          - directory: temp
+          - directory: temp/
             files:
               - temp1.json
               - temp2.json
@@ -19,7 +19,11 @@ cloud:
               - temp10.json
               - temp20.yml
               - temp21.properties
-              - temp21_doesnotexist.properties
+              - list1.json
+              - list2.json
+              - list3.json
+              - list4.json
+              - list5.json
           - directory: temp/anothertemp
             files:
               - testing.json
