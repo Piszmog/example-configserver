@@ -24,6 +24,16 @@ cloud:
               - list3.json
               - list4.json
               - list5.json
+              - list6.json
+              - list7.json
+              - list8.json
+              - list9.json
+              - list10.json
+              - list11.json
+              - list12.json
+              - list13.json
+              - list14.json
+              - list15.json
           - directory: temp/anothertemp
             files:
               - testing.json
